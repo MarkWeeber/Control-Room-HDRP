@@ -1,0 +1,4436 @@
+fileFormatVersion: 2
+guid: 0940ca36b7f659f49bb1c4b958ff1e86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6507919232106392369
+    second: Dirt and Wear Decals new_0
+  - first:
+      213: -3948975054139303026
+    second: Dirt and Wear Decals new_1
+  - first:
+      213: -1378599964945564715
+    second: Dirt and Wear Decals new_2
+  - first:
+      213: -6523822847629602092
+    second: Dirt and Wear Decals new_3
+  - first:
+      213: -4536185451406111502
+    second: Dirt and Wear Decals new_4
+  - first:
+      213: 705904367067936313
+    second: Dirt and Wear Decals new_5
+  - first:
+      213: -1028752859819491641
+    second: Dirt and Wear Decals new_6
+  - first:
+      213: 4632165980896980090
+    second: Dirt and Wear Decals new_7
+  - first:
+      213: -7040481407863232886
+    second: Dirt and Wear Decals new_8
+  - first:
+      213: -9185946150543964524
+    second: Dirt and Wear Decals new_9
+  - first:
+      213: 4348257653677172029
+    second: Dirt and Wear Decals new_10
+  - first:
+      213: -1823407427415747389
+    second: Dirt and Wear Decals new_11
+  - first:
+      213: 3438650905236387082
+    second: Dirt and Wear Decals new_12
+  - first:
+      213: 4273387544401325051
+    second: Dirt and Wear Decals new_13
+  - first:
+      213: 468615733383273975
+    second: Dirt and Wear Decals new_14
+  - first:
+      213: -2792130983224670534
+    second: Dirt and Wear Decals new_15
+  - first:
+      213: -1747580140269393066
+    second: Dirt and Wear Decals new_16
+  - first:
+      213: -1715876968604993338
+    second: Dirt and Wear Decals new_17
+  - first:
+      213: -2563983390653456032
+    second: Dirt and Wear Decals new_18
+  - first:
+      213: -3006366939826043359
+    second: Dirt and Wear Decals new_19
+  - first:
+      213: 5345202028133482106
+    second: Dirt and Wear Decals new_20
+  - first:
+      213: -503378398841117976
+    second: Dirt and Wear Decals new_21
+  - first:
+      213: -1583412636276282090
+    second: Dirt and Wear Decals new_22
+  - first:
+      213: 1885200858683303023
+    second: Dirt and Wear Decals new_23
+  - first:
+      213: 1060827191220469926
+    second: Dirt and Wear Decals new_24
+  - first:
+      213: 4500413224126144999
+    second: Dirt and Wear Decals new_25
+  - first:
+      213: -7994953289865802437
+    second: Dirt and Wear Decals new_26
+  - first:
+      213: 6209468920835346476
+    second: Dirt and Wear Decals new_27
+  - first:
+      213: 1051940444430144252
+    second: Dirt and Wear Decals new_28
+  - first:
+      213: 5828899389885896390
+    second: Dirt and Wear Decals new_29
+  - first:
+      213: -5326799205006703230
+    second: Dirt and Wear Decals new_30
+  - first:
+      213: 2176080471425965818
+    second: Dirt and Wear Decals new_31
+  - first:
+      213: -2246765958514236463
+    second: Dirt and Wear Decals new_32
+  - first:
+      213: 7232401213627577942
+    second: Dirt and Wear Decals new_33
+  - first:
+      213: 8012443930378894095
+    second: Dirt and Wear Decals new_34
+  - first:
+      213: 6731498865873724747
+    second: Dirt and Wear Decals new_35
+  - first:
+      213: 8281110972052340466
+    second: Dirt and Wear Decals new_36
+  - first:
+      213: -5706506638632827927
+    second: Dirt and Wear Decals new_37
+  - first:
+      213: 3843211031022991579
+    second: Dirt and Wear Decals new_38
+  - first:
+      213: 4172736193463644688
+    second: Dirt and Wear Decals new_39
+  - first:
+      213: -4048564311630598980
+    second: Dirt and Wear Decals new_40
+  - first:
+      213: 7716192547071378521
+    second: Dirt and Wear Decals new_41
+  - first:
+      213: 4401502882387860408
+    second: Dirt and Wear Decals new_42
+  - first:
+      213: 7131857048989973534
+    second: Dirt and Wear Decals new_43
+  - first:
+      213: 1151455249538168438
+    second: Dirt and Wear Decals new_44
+  - first:
+      213: -1317828828309254130
+    second: Dirt and Wear Decals new_45
+  - first:
+      213: 8188012820014328758
+    second: Dirt and Wear Decals new_46
+  - first:
+      213: 4388585219559435081
+    second: Dirt and Wear Decals new_47
+  - first:
+      213: 3884593426110579658
+    second: Dirt and Wear Decals new_48
+  - first:
+      213: -3513861412983751561
+    second: Dirt and Wear Decals new_49
+  - first:
+      213: 4105578635939806863
+    second: Dirt and Wear Decals new_50
+  - first:
+      213: 7824489263412828093
+    second: Dirt and Wear Decals new_51
+  - first:
+      213: -9118799252562902628
+    second: Dirt and Wear Decals new_52
+  - first:
+      213: -5513090183414381105
+    second: Dirt and Wear Decals new_53
+  - first:
+      213: -1517239787863839196
+    second: Dirt and Wear Decals new_54
+  - first:
+      213: -8727473546411059240
+    second: Dirt and Wear Decals new_55
+  - first:
+      213: 4851242817871984437
+    second: Dirt and Wear Decals new_56
+  - first:
+      213: -2693253955914263604
+    second: Dirt and Wear Decals new_57
+  - first:
+      213: 3806257698684672583
+    second: Dirt and Wear Decals new_58
+  - first:
+      213: 1057918569628981683
+    second: Dirt and Wear Decals new_59
+  - first:
+      213: 5140487996553017294
+    second: Dirt and Wear Decals new_60
+  - first:
+      213: 5407817842778511910
+    second: Dirt and Wear Decals new_61
+  - first:
+      213: 7953595536421939261
+    second: Dirt and Wear Decals new_62
+  - first:
+      213: -1198928125577293043
+    second: Dirt and Wear Decals new_63
+  - first:
+      213: 6490040197231958056
+    second: Dirt and Wear Decals new_64
+  - first:
+      213: -6201213000072786876
+    second: Dirt and Wear Decals new_65
+  - first:
+      213: -4925901353215402691
+    second: Dirt and Wear Decals new_66
+  - first:
+      213: 661895810996799164
+    second: Dirt and Wear Decals new_67
+  - first:
+      213: -2659574467423877264
+    second: Dirt and Wear Decals new_68
+  - first:
+      213: -7661469257727506390
+    second: Dirt and Wear Decals new_69
+  - first:
+      213: 7064774976294865613
+    second: Dirt and Wear Decals new_70
+  - first:
+      213: 5921154953030792450
+    second: Dirt and Wear Decals new_71
+  - first:
+      213: -8507320810789447815
+    second: Dirt and Wear Decals new_72
+  - first:
+      213: 8609624087990828598
+    second: Dirt and Wear Decals new_73
+  - first:
+      213: -5107802823069820029
+    second: Dirt and Wear Decals new_74
+  - first:
+      213: 6917958390225826337
+    second: Dirt and Wear Decals new_75
+  - first:
+      213: 1275009423261030015
+    second: Dirt and Wear Decals new_76
+  - first:
+      213: 1539981754214888633
+    second: Dirt and Wear Decals new_77
+  - first:
+      213: -1844094396217535084
+    second: Dirt and Wear Decals new_78
+  - first:
+      213: -290325497670983708
+    second: Dirt and Wear Decals new_79
+  - first:
+      213: -62288984195137415
+    second: Dirt and Wear Decals new_80
+  - first:
+      213: -70718536171366769
+    second: Dirt and Wear Decals new_81
+  - first:
+      213: -7276674508643290555
+    second: Dirt and Wear Decals new_82
+  - first:
+      213: 2721561954586306158
+    second: Dirt and Wear Decals new_83
+  - first:
+      213: -5880588128929630337
+    second: Dirt and Wear Decals new_84
+  - first:
+      213: 6444888320146168550
+    second: Dirt and Wear Decals new_85
+  - first:
+      213: -4638871985449169025
+    second: Dirt and Wear Decals new_86
+  - first:
+      213: -1072454122497628333
+    second: Dirt and Wear Decals new_87
+  - first:
+      213: 8564851004230272444
+    second: Dirt and Wear Decals new_88
+  - first:
+      213: 6762599654065789694
+    second: Dirt and Wear Decals new_89
+  - first:
+      213: 1374309209342344411
+    second: Dirt and Wear Decals new_90
+  - first:
+      213: 4636023180805610340
+    second: Dirt and Wear Decals new_91
+  - first:
+      213: 2647691830331340821
+    second: Dirt and Wear Decals new_92
+  - first:
+      213: 6035670353199953014
+    second: Dirt and Wear Decals new_93
+  - first:
+      213: -8181866995014200776
+    second: Dirt and Wear Decals new_94
+  - first:
+      213: 9222401087192045014
+    second: Dirt and Wear Decals new_95
+  - first:
+      213: -8302947172306569584
+    second: Dirt and Wear Decals new_96
+  - first:
+      213: 4779919236699724682
+    second: Dirt and Wear Decals new_97
+  - first:
+      213: 5390740336560640968
+    second: Dirt and Wear Decals new_98
+  - first:
+      213: 198321706143858126
+    second: Dirt and Wear Decals new_99
+  - first:
+      213: -8310547626280037088
+    second: Dirt and Wear Decals new_100
+  - first:
+      213: -2160283720855673863
+    second: Dirt and Wear Decals new_101
+  - first:
+      213: 8994911808627391443
+    second: Dirt and Wear Decals new_102
+  - first:
+      213: -8568784290490443038
+    second: Dirt and Wear Decals new_103
+  - first:
+      213: 4430129777815248385
+    second: Dirt and Wear Decals new_104
+  - first:
+      213: -4419019741211426763
+    second: Dirt and Wear Decals new_105
+  - first:
+      213: -8005125181351154952
+    second: Dirt and Wear Decals new_106
+  - first:
+      213: -8534913836047969791
+    second: Dirt and Wear Decals new_107
+  - first:
+      213: 3883189366601320624
+    second: Dirt and Wear Decals new_108
+  - first:
+      213: 837059783554163895
+    second: Dirt and Wear Decals new_109
+  - first:
+      213: -4102710836910593057
+    second: Dirt and Wear Decals new_110
+  - first:
+      213: -8424516008081450092
+    second: Dirt and Wear Decals new_111
+  - first:
+      213: 3502856812104751725
+    second: Dirt and Wear Decals new_112
+  - first:
+      213: 5475700092913911597
+    second: Dirt and Wear Decals new_113
+  - first:
+      213: 2606177321684992254
+    second: Dirt and Wear Decals new_114
+  - first:
+      213: 5435650432871917719
+    second: Dirt and Wear Decals new_115
+  - first:
+      213: -8231643548541129629
+    second: Dirt and Wear Decals new_116
+  - first:
+      213: 7662221406306852090
+    second: Dirt and Wear Decals new_117
+  - first:
+      213: 3674610529094773612
+    second: Dirt and Wear Decals new_118
+  - first:
+      213: 6956907396527123797
+    second: Dirt and Wear Decals new_119
+  - first:
+      213: -8838478282391781314
+    second: Dirt and Wear Decals new_120
+  - first:
+      213: -6904262076582549795
+    second: Dirt and Wear Decals new_121
+  - first:
+      213: -979987107473457445
+    second: Dirt and Wear Decals new_122
+  - first:
+      213: -4820157059161526213
+    second: Dirt and Wear Decals new_123
+  - first:
+      213: 7497391793283810644
+    second: Dirt and Wear Decals new_124
+  - first:
+      213: 4717270903857745450
+    second: Dirt and Wear Decals new_125
+  - first:
+      213: -8975827009012359702
+    second: Dirt and Wear Decals new_126
+  - first:
+      213: 5577322846291305423
+    second: Dirt and Wear Decals new_127
+  - first:
+      213: -4697121109498319628
+    second: Dirt and Wear Decals new_128
+  - first:
+      213: -605467194687440353
+    second: Dirt and Wear Decals new_129
+  - first:
+      213: -1306669290858836961
+    second: Dirt and Wear Decals new_130
+  - first:
+      213: 2340995771340894961
+    second: Dirt and Wear Decals new_131
+  - first:
+      213: -3365385696108612888
+    second: Dirt and Wear Decals new_132
+  - first:
+      213: 4394517918135461780
+    second: Dirt and Wear Decals new_133
+  - first:
+      213: -7957096830670132442
+    second: Dirt and Wear Decals new_134
+  - first:
+      213: 592966956564465950
+    second: Dirt and Wear Decals new_135
+  - first:
+      213: -164566406679968549
+    second: Dirt and Wear Decals new_136
+  - first:
+      213: -7611694811677781378
+    second: Dirt and Wear Decals new_137
+  - first:
+      213: -34496076829977775
+    second: Dirt and Wear Decals new_138
+  - first:
+      213: -1618964283838418635
+    second: Dirt and Wear Decals new_139
+  - first:
+      213: 2662737205476063243
+    second: Dirt and Wear Decals new_140
+  - first:
+      213: 6175678865354564383
+    second: Dirt and Wear Decals new_141
+  - first:
+      213: 6576592718923003229
+    second: Dirt and Wear Decals new_142
+  - first:
+      213: -154514550051577128
+    second: Dirt and Wear Decals new_143
+  - first:
+      213: -8595064585192839130
+    second: Dirt and Wear Decals new_144
+  - first:
+      213: 5535459302011182830
+    second: Dirt and Wear Decals new_145
+  - first:
+      213: 7767078648979222317
+    second: Dirt and Wear Decals new_146
+  - first:
+      213: -7300994323186896849
+    second: Dirt and Wear Decals new_147
+  - first:
+      213: -6625589665089717433
+    second: Dirt and Wear Decals new_148
+  - first:
+      213: -6844559520684762367
+    second: Dirt and Wear Decals new_149
+  - first:
+      213: -2801745535589909672
+    second: Dirt and Wear Decals new_150
+  - first:
+      213: 4588601452239366873
+    second: Dirt and Wear Decals new_151
+  - first:
+      213: -5750630521611187233
+    second: Dirt and Wear Decals new_152
+  - first:
+      213: -8636661894333374868
+    second: Dirt and Wear Decals new_153
+  - first:
+      213: -8722684948468284638
+    second: Dirt and Wear Decals new_154
+  - first:
+      213: -8551709056828887424
+    second: Dirt and Wear Decals new_155
+  - first:
+      213: 3066260220913096948
+    second: Dirt and Wear Decals new_156
+  - first:
+      213: 2193259161794870173
+    second: Dirt and Wear Decals new_157
+  - first:
+      213: -7353766909776611244
+    second: Dirt and Wear Decals new_158
+  - first:
+      213: -598785626069916086
+    second: Dirt and Wear Decals new_159
+  - first:
+      213: 1811292984831233909
+    second: Dirt and Wear Decals new_160
+  - first:
+      213: -6393758046033073758
+    second: Dirt and Wear Decals new_161
+  - first:
+      213: -8956530477905470804
+    second: Dirt and Wear Decals new_162
+  - first:
+      213: -6557104782849232469
+    second: Dirt and Wear Decals new_163
+  - first:
+      213: 6275777043789077386
+    second: Dirt and Wear Decals new_164
+  - first:
+      213: 4510045147116143618
+    second: Dirt and Wear Decals new_165
+  - first:
+      213: 3691256088270484822
+    second: Dirt and Wear Decals new_166
+  - first:
+      213: 3737716683419481432
+    second: Dirt and Wear Decals new_167
+  - first:
+      213: 7016442442312604071
+    second: Dirt and Wear Decals new_168
+  - first:
+      213: -646302069944277463
+    second: Dirt and Wear Decals new_169
+  - first:
+      213: -808311102552082048
+    second: Dirt and Wear Decals new_170
+  - first:
+      213: 3944922343892479111
+    second: Dirt and Wear Decals new_171
+  - first:
+      213: -6494765478906494285
+    second: Dirt and Wear Decals new_172
+  - first:
+      213: 3419687485620638403
+    second: Dirt and Wear Decals new_173
+  - first:
+      213: 104415738125555214
+    second: Dirt and Wear Decals new_174
+  - first:
+      213: -9199368898176629776
+    second: Dirt and Wear Decals new_175
+  - first:
+      213: -4518730143908197579
+    second: Dirt and Wear Decals new_176
+  - first:
+      213: -3973040145404230014
+    second: Dirt and Wear Decals new_177
+  - first:
+      213: -4310666018690064199
+    second: Dirt and Wear Decals new_178
+  - first:
+      213: -4163044601166141963
+    second: Dirt and Wear Decals new_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3365
+        width: 934
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc49d5750f93fa5a0800000000000000
+      internalID: -6507919232106392369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4067
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd52f5c1c6239c0800000000000000
+      internalID: -3948975054139303026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 4069
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbbd02d2aa3edce0800000000000000
+      internalID: -1378599964945564715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4067
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d57d4fa9b675a0800000000000000
+      internalID: -6523822847629602092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4069
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc4ad9d5b3c01c0800000000000000
+      internalID: -4536185451406111502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 4072
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9363b742840ebc900800000000000000
+      internalID: 705904367067936313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 4072
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cebacc79b229b1f0800000000000000
+      internalID: -1028752859819491641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4070
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6308da62c84040800000000000000
+      internalID: 4632165980896980090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 4068
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86e19c267f2b4e90800000000000000
+      internalID: -7040481407863232886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4068
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c5f235a6f48080800000000000000
+      internalID: -9185946150543964524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_10
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 3830
+        width: 1028
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352d474c4d185c30800000000000000
+      internalID: 4348257653677172029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_11
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 3569
+        width: 908
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c453180b94f1b6e0800000000000000
+      internalID: -1823407427415747389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_12
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 3470
+        width: 1030
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05b03197ca88bf20800000000000000
+      internalID: 3438650905236387082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4064
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbae9b845f1e4b30800000000000000
+      internalID: 4273387544401325051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_14
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3953
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd1874d68bd08600800000000000000
+      internalID: 468615733383273975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_15
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 3929
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab608820aab5049d0800000000000000
+      internalID: -2792130983224670534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_16
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3936
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b27ba1f195fb7e0800000000000000
+      internalID: -1747580140269393066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_17
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3934
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c87608fcfaff28e0800000000000000
+      internalID: -1715876968604993338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_18
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 3937
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0616916d0b6ea6cd0800000000000000
+      internalID: -2563983390653456032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_19
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3936
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c037523d3746d0800000000000000
+      internalID: -3006366939826043359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_20
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ef79bace8fd2a40800000000000000
+      internalID: 5345202028133482106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_21
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3936
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e268756304a309f0800000000000000
+      internalID: -503378398841117976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_22
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3939
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d23e9b896960ae0800000000000000
+      internalID: -1583412636276282090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_23
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3937
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6464185134992a10800000000000000
+      internalID: 1885200858683303023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_24
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 3934
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a085ccb5b0d8be00800000000000000
+      internalID: 1060827191220469926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_25
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3935
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1628eabfda47e30800000000000000
+      internalID: 4500413224126144999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_26
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 3934
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d45b987583c0190800000000000000
+      internalID: -7994953289865802437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_27
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3930
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20183695177c2650800000000000000
+      internalID: 6209468920835346476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_28
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 3930
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21023c24e399e00800000000000000
+      internalID: 1051940444430144252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_29
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 3928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d3adbc1964e050800000000000000
+      internalID: 5828899389885896390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_30
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3930
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850ebb78586316b0800000000000000
+      internalID: -5326799205006703230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_31
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3928
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe520ec8adf23e10800000000000000
+      internalID: 2176080471425965818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_32
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 3930
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3a15db342e1d0e0800000000000000
+      internalID: -2246765958514236463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_33
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3928
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656306bb596ae5460800000000000000
+      internalID: 7232401213627577942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_34
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3924
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf7fc8d4be13f60800000000000000
+      internalID: 8012443930378894095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_35
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 3922
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452952bd861b6d50800000000000000
+      internalID: 6731498865873724747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_36
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3922
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fef4cacd8a6ce270800000000000000
+      internalID: 8281110972052340466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_37
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3920
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c1ef427a6ec0b0800000000000000
+      internalID: -5706506638632827927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_38
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8fcfc0214d55530800000000000000
+      internalID: 3843211031022991579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_39
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3912
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f0d8b57988e930800000000000000
+      internalID: 4172736193463644688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_40
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3910
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2fe2753c90d7c0800000000000000
+      internalID: -4048564311630598980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_41
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3913
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954c4ba4d3c651b60800000000000000
+      internalID: 7716192547071378521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_42
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3908
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb16962d87451d30800000000000000
+      internalID: 4401502882387860408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_43
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 3914
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb9e9233279f260800000000000000
+      internalID: 7131857048989973534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_44
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3906
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763b73e27acaff00800000000000000
+      internalID: 1151455249538168438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_45
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 3882
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009bdda9a126bde0800000000000000
+      internalID: -1317828828309254130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_46
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3876
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6c41274aa1a170800000000000000
+      internalID: 8188012820014328758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_47
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3866
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bae56610367ec30800000000000000
+      internalID: 4388585219559435081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_48
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 3866
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3832cb329d8e530800000000000000
+      internalID: 3884593426110579658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_49
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3859
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb62189a14c3fc0800000000000000
+      internalID: -3513861412983751561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_50
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3860
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eff906402f9f830800000000000000
+      internalID: 4105578635939806863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_51
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3862
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75496778b269c60800000000000000
+      internalID: 7824489263412828093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_52
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3860
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9104eca464837180800000000000000
+      internalID: -9118799252562902628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_53
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3843
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc584e210b19d73b0800000000000000
+      internalID: -5513090183414381105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_54
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e694d937ea1fae0800000000000000
+      internalID: -1517239787863839196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_55
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3847
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7dc87bc09c1e680800000000000000
+      internalID: -8727473546411059240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_56
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3850
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537bc6ec3a3135340800000000000000
+      internalID: 4851242817871984437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_57
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 3852
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc390dbebc3af9ad0800000000000000
+      internalID: -2693253955914263604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_58
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 3850
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a12b5e53b82d430800000000000000
+      internalID: 3806257698684672583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_59
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 3842
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95600855b7eae00800000000000000
+      internalID: 1057918569628981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_60
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3836
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b3bee89ea65740800000000000000
+      internalID: 5140487996553017294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_61
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3844
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a15d81dad6c0b40800000000000000
+      internalID: 5407817842778511910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_62
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3846
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ef8b1009d06e60800000000000000
+      internalID: 7953595536421939261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_63
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 3846
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039db3d83d8c5fe0800000000000000
+      internalID: -1198928125577293043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_64
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3841
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82854067c21411a50800000000000000
+      internalID: 6490040197231958056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_65
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 3836
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8022c1add0f9a0800000000000000
+      internalID: -6201213000072786876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_66
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 3840
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ddafa51dea3abb0800000000000000
+      internalID: -4925901353215402691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_67
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 3840
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb688c4bbb68f2900800000000000000
+      internalID: 661895810996799164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_68
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3840
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0774087ec1b471bd0800000000000000
+      internalID: -2659574467423877264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_69
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3837
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2883936d4efca590800000000000000
+      internalID: -7661469257727506390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_70
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 3842
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcacf10096f1b0260800000000000000
+      internalID: 7064774976294865613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_71
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 3834
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f173ee0b2c2250800000000000000
+      internalID: 5921154953030792450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_72
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3836
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775b9adbccefe980800000000000000
+      internalID: -8507320810789447815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_73
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3834
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef6560e778b7770800000000000000
+      internalID: 8609624087990828598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_74
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 3832
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9f2c05607d19b0800000000000000
+      internalID: -5107802823069820029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_75
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3831
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f754c086810060800000000000000
+      internalID: 6917958390225826337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_76
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3814
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76dfbea05eb1b110800000000000000
+      internalID: 1275009423261030015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_77
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 3832
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4bf8c0f3d1f5510800000000000000
+      internalID: 1539981754214888633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_78
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3836
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4955a25cae57866e0800000000000000
+      internalID: -1844094396217535084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_79
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3830
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef15128f7e88fbf0800000000000000
+      internalID: -290325497670983708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_80
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3828
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97001a7bf74b22ff0800000000000000
+      internalID: -62288984195137415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_81
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3830
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865874bdd1c40ff0800000000000000
+      internalID: -70718536171366769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_82
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3832
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423d2e761f040b90800000000000000
+      internalID: -7276674508643290555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_83
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 3829
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a551ad2ee4c520800000000000000
+      internalID: 2721561954586306158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_84
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3828
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7735c0e044f36ea0800000000000000
+      internalID: -5880588128929630337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_85
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 3829
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea506bd7c7d07950800000000000000
+      internalID: 6444888320146168550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_86
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3830
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8accc18a6f9fb0800000000000000
+      internalID: -4638871985449169025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_87
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3830
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35720ae58a0ed11f0800000000000000
+      internalID: -1072454122497628333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2233
+        width: 2028
+        height: 1597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50b4d1c967cd670800000000000000
+      internalID: 8564851004230272444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_89
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 3820
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa55ca3e8499dd50800000000000000
+      internalID: 6762599654065789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_90
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3824
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf56ac1f6821310800000000000000
+      internalID: 1374309209342344411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_91
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3820
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b156e2586765040800000000000000
+      internalID: 4636023180805610340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_92
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 3828
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187a9d01bd7eb420800000000000000
+      internalID: 2647691830331340821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_93
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 3826
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f6d7353203c350800000000000000
+      internalID: 6035670353199953014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_94
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3828
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8329fa2415b247e80800000000000000
+      internalID: -8181866995014200776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_95
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3355
+        width: 314
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5124a2dec8cff70800000000000000
+      internalID: 9222401087192045014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_96
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 3467
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09635d5a98106cc80800000000000000
+      internalID: -8302947172306569584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_97
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 3349
+        width: 352
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1b8e783fa55240800000000000000
+      internalID: 4779919236699724682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_98
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 3349
+        width: 1028
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3111556c1cfca40800000000000000
+      internalID: 5390740336560640968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_99
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 3448
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd34fd7a8490c200800000000000000
+      internalID: 198321706143858126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_100
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 3067
+        width: 214
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025dc9e07f00bac80800000000000000
+      internalID: -8310547626280037088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_101
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 3045
+        width: 220
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a65cc6612502e0800000000000000
+      internalID: -2160283720855673863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_102
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 3003
+        width: 448
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbb33302a854dc70800000000000000
+      internalID: 8994911808627391443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_103
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 3245
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea9e505610951980800000000000000
+      internalID: -8568784290490443038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_104
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3230
+        width: 1030
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ede83af8bfa7d30800000000000000
+      internalID: 4430129777815248385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_105
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 3229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53087a555fc7ca2c0800000000000000
+      internalID: -4419019741211426763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_106
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 3232
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa70f7f0518e090800000000000000
+      internalID: -8005125181351154952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_107
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3232
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1025bc50615ed8980800000000000000
+      internalID: -8534913836047969791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_108
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 3230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b888d7a72cd3e530800000000000000
+      internalID: 3883189366601320624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_109
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3231
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e28e2075dd9b00800000000000000
+      internalID: 837059783554163895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_110
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3229
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb6ccd1b3e3017c0800000000000000
+      internalID: -4102710836910593057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_111
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 3230
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b96bd535b161b80800000000000000
+      internalID: -8424516008081450092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_112
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 3228
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a9f8036b5ac9030800000000000000
+      internalID: 3502856812104751725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_113
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 3229
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2705b619389dfb40800000000000000
+      internalID: 5475700092913911597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_114
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2983
+        width: 1028
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef086b847700b2420800000000000000
+      internalID: 2606177321684992254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_115
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 3163
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986786f44f4f6b40800000000000000
+      internalID: 5435650432871917719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_116
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2921
+        width: 310
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce1934ec353cd80800000000000000
+      internalID: -8231643548541129629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_117
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2927
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5059d5cda55a60800000000000000
+      internalID: 7662221406306852090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_118
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2899
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6baa9aaec6def230800000000000000
+      internalID: 3674610529094773612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_119
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2669
+        width: 1041
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6949fa66eb8060800000000000000
+      internalID: 6956907396527123797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_120
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2779
+        width: 1028
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30880794da675580800000000000000
+      internalID: -8838478282391781314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_121
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2533
+        width: 1028
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a811c8322f20a0800000000000000
+      internalID: -6904262076582549795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_122
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2631
+        width: 1030
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef49efae26662f0800000000000000
+      internalID: -979987107473457445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_123
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2625
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f51761bc5b1db0800000000000000
+      internalID: -4820157059161526213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_124
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2622
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4554c94fc161c0860800000000000000
+      internalID: 7497391793283810644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_125
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 2625
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0ab5d4ec177140800000000000000
+      internalID: 4717270903857745450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_126
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 2621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed167a24e47f6380800000000000000
+      internalID: -8975827009012359702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_127
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 2620
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32dda2491a66d40800000000000000
+      internalID: 5577322846291305423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_128
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2613
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc2d51cc3970deb0800000000000000
+      internalID: -4697121109498319628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_129
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2617
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ab0895bc2f897f0800000000000000
+      internalID: -605467194687440353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_130
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 2615
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8277f337cddde0800000000000000
+      internalID: -1306669290858836961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_131
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 2567
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2377b3043ec7020800000000000000
+      internalID: 2340995771340894961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_132
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f34b3a8fbb41d0800000000000000
+      internalID: -3365385696108612888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_133
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2603
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ad8d63c67cfc30800000000000000
+      internalID: 4394517918135461780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_134
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2603
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b258c4796b29190800000000000000
+      internalID: -7957096830670132442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_135
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2601
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c1992e44aa3800800000000000000
+      internalID: 592966956564465950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_136
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2481
+        width: 1028
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4c0eb99b757bdf0800000000000000
+      internalID: -164566406679968549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_137
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2345
+        width: 1028
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721343b5e3dd5690800000000000000
+      internalID: -7611694811677781378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_138
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1979
+        width: 915
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153976a3002758ff0800000000000000
+      internalID: -34496076829977775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_139
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2369
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53134cdbf884889e0800000000000000
+      internalID: -1618964283838418635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_140
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1893
+        width: 538
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08fd9e6161f3f420800000000000000
+      internalID: 2662737205476063243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_141
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2217
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13a858353b64b550800000000000000
+      internalID: 6175678865354564383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_142
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2107
+        width: 1028
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5573dbcb30c44b50800000000000000
+      internalID: 6576592718923003229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_143
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2045
+        width: 182
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2eb8bd5dd0bddf0800000000000000
+      internalID: -154514550051577128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_144
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 1096
+        width: 650
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286a026c4238b880800000000000000
+      internalID: -8595064585192839130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_145
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1773
+        width: 322
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee120538e6e1dc40800000000000000
+      internalID: 5535459302011182830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_146
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1451
+        width: 760
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6de621e43acb60800000000000000
+      internalID: 7767078648979222317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_147
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1899
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f203d4b6858adaa90800000000000000
+      internalID: -7300994323186896849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_148
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 1099
+        width: 922
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf3d0bd4d2d04a0800000000000000
+      internalID: -6625589665089717433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1002
+        width: 998
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1195416d3301a0800000000000000
+      internalID: -6844559520684762367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_150
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b702897433e19d0800000000000000
+      internalID: -2801745535589909672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_151
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1002
+        width: 1029
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa19895bcfdaf30800000000000000
+      internalID: 4588601452239366873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_152
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 37
+        width: 700
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb88dc3208a130b0800000000000000
+      internalID: -5750630521611187233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_153
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 0
+        width: 645
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e5b1f14c9642880800000000000000
+      internalID: -8636661894333374868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_154
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 15
+        width: 720
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c6ee014cc2f680800000000000000
+      internalID: -8722684948468284638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_155
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 13
+        width: 702
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e2935fbe9325980800000000000000
+      internalID: -8551709056828887424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_156
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 934
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89f68dc6b8d8a20800000000000000
+      internalID: 3066260220913096948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_157
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 930
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b77275695007e10800000000000000
+      internalID: 2193259161794870173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 930
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583ebd15fb22f990800000000000000
+      internalID: -7353766909776611244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_159
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 46
+        width: 685
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462e7545afa0b7f0800000000000000
+      internalID: -598785626069916086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 424
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc5018f51032910800000000000000
+      internalID: 1811292984831233909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_161
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 930
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92766ceeec447a0800000000000000
+      internalID: -6393758046033073758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_162
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 928
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1c7cebf204b380800000000000000
+      internalID: -8956530477905470804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 925
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1b147e0fb7005a0800000000000000
+      internalID: -6557104782849232469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_164
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 753
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b599888f9081750800000000000000
+      internalID: 6275777043789077386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_165
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 736
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405d28a26e69e30800000000000000
+      internalID: 4510045147116143618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_166
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 730
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553c5cead9f93330800000000000000
+      internalID: 3691256088270484822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_167
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 734
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f44235890fd330800000000000000
+      internalID: 3737716683419481432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a954010a396f5160800000000000000
+      internalID: 7016442442312604071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_169
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 727
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262f5f01bfd707f0800000000000000
+      internalID: -646302069944277463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089f068b55d48c4f0800000000000000
+      internalID: -808311102552082048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_171
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 710
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c663e78fd2fb630800000000000000
+      internalID: 3944922343892479111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_172
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 704
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b20f4a2535fdd5a0800000000000000
+      internalID: -6494765478906494285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_173
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 679
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2544f56ab257f20800000000000000
+      internalID: 3419687485620638403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_174
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 696
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061fe38f85f27100800000000000000
+      internalID: 104415738125555214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_175
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 663
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3c76a3ab6455080800000000000000
+      internalID: -9199368898176629776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_176
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 654
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b808810ee3a41c0800000000000000
+      internalID: -4518730143908197579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_177
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28680dea90decd8c0800000000000000
+      internalID: -3973040145404230014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_178
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a1aa48107d24c0800000000000000
+      internalID: -4310666018690064199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt and Wear Decals new_179
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f56263fdf4e936c0800000000000000
+      internalID: -4163044601166141963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 69e1de5fbae6d254fb7b661aef19aefd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
